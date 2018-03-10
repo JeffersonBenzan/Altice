@@ -11,6 +11,9 @@
     <string name="about">Sobre Nosotros</string>
     <string name="donation">Donacion</string>
     <string name="language">Idioma</string>
-
+    <string name="title_activity_choose_method">ChooseMethodActivity</string>
+    <string name="choose_method">Elige un metodo</string>
+    <string name="choose_method_complexion">Segun tu complexion</string>
+    <string name="choose_method_imc">Segun el IMC</string>
 
 </resources>
