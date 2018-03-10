@@ -1,3 +1,16 @@
 <resources>
     <string name="app_name">Calcula tu peso ideal</string>
+    <string name="title_activity_main">Calcula Tu Peso Ideal</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Configuracion</string>
+    <string name="accessibility">Accesibilidad</string>
+    <string name="help">Ayuda</string>
+    <string name="about">Sobre Nosotros</string>
+    <string name="donation">Donacion</string>
+    <string name="language">Idioma</string>
+
+
 </resources>
