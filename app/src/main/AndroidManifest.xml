@@ -14,14 +14,17 @@
             android:name=".MainActivity"
             android:label="@string/title_activity_main"
             android:theme="@style/AppTheme.NoActionBar"
-            app:srcCompat="@mipmap/calculadora_peso_ideal" >
+            app:srcCompat="@mipmap/calculadora_peso_ideal">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
-
         </activity>
+        <activity
+            android:name=".ChooseMethodActivity"
+            android:label="@string/title_activity_choose_method"
+            android:theme="@style/AppTheme.NoActionBar"></activity>
     </application>
 
 </manifest>
